@@ -1,1 +1,1 @@
-![alt text](screenshots/Calculator_App.png "Calculator App")
+![alt text](screenshots/calculator-theme.png "Calculator App")
